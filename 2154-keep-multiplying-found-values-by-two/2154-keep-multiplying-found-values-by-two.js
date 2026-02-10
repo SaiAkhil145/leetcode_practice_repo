@@ -4,8 +4,7 @@
  * @return {number}
  */
 var findFinalValue = function(nums, original) {
-    let set = new Set(nums);
-    while(set.has(original)){
+    while(nums.find(val=>val===original)){
         original*=2;
     }
     return original;
