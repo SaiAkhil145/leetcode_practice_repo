@@ -9,6 +9,7 @@
 | [0283-move-zeroes](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0643-maximum-average-subarray-i) |
 | [0905-sort-array-by-parity](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0905-sort-array-by-parity) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2460-apply-operations-to-an-array](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/2460-apply-operations-to-an-array) |
 ## Sliding Window
 |  |
@@ -26,8 +27,14 @@
 |  |
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0905-sort-array-by-parity) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Simulation
 |  |
 | ------- |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2460-apply-operations-to-an-array](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/2460-apply-operations-to-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/2154-keep-multiplying-found-values-by-two) |
 <!---LeetCode Topics End-->
