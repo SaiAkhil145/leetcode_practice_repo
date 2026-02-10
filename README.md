@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0283-move-zeroes) |
@@ -18,6 +19,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0283-move-zeroes) |
@@ -37,4 +39,8 @@
 |  |
 | ------- |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/2154-keep-multiplying-found-values-by-two) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
