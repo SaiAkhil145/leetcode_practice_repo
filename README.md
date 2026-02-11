@@ -30,6 +30,7 @@
 | [0027-remove-element](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0680-valid-palindrome-ii) |
 | [0905-sort-array-by-parity](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0905-sort-array-by-parity) |
@@ -67,6 +68,7 @@
 | [0076-minimum-window-substring](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0567-permutation-in-string) |
