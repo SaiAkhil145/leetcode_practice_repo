@@ -40,6 +40,7 @@
 | [0242-valid-anagram](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0242-valid-anagram) |
 | [0905-sort-array-by-parity](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0905-sort-array-by-parity) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2785-sort-vowels-in-a-string](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/2785-sort-vowels-in-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0680-valid-palindrome-ii) |
+| [2785-sort-vowels-in-a-string](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/2785-sort-vowels-in-a-string) |
 ## Counting
 |  |
 | ------- |
