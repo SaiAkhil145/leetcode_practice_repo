@@ -30,6 +30,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0242-valid-anagram) |
 | [0905-sort-array-by-parity](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0905-sort-array-by-parity) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Simulation
@@ -40,6 +41,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0242-valid-anagram) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Greedy
 |  |
@@ -50,5 +52,6 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0242-valid-anagram) |
 | [0680-valid-palindrome-ii](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
