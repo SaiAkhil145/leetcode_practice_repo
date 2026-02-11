@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0643-maximum-average-subarray-i) |
@@ -47,6 +48,7 @@
 | ------- |
 | [0076-minimum-window-substring](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0567-permutation-in-string) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -61,6 +63,7 @@
 | [0076-minimum-window-substring](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0680-valid-palindrome-ii) |
