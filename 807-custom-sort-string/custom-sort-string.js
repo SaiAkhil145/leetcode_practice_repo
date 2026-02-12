@@ -6,13 +6,10 @@
 var customSortString = function(order, s) {
     let res = [];
     let freq = {};
-    // freq map for s elements
     for(let ch of s){
-        freq[ch]=(freq[ch] || 0)+1;
+        freq[ch] = (freq[ch] || 0)+1;
     }
-    // adding characters in order
     for(let ch of order){
-
         if(freq[ch]){
             let count = freq[ch];
             while(count>0){
