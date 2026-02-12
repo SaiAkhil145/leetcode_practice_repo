@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0643-maximum-average-subarray-i) |
+| [0746-min-cost-climbing-stairs](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0746-min-cost-climbing-stairs) |
 | [0905-sort-array-by-parity](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0905-sort-array-by-parity) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0992-subarrays-with-k-different-integers) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -98,4 +99,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0451-sort-characters-by-frequency) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0746-min-cost-climbing-stairs](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0746-min-cost-climbing-stairs) |
 <!---LeetCode Topics End-->
