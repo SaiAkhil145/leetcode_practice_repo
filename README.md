@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0027-remove-element) |
+| [0217-contains-duplicate](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0643-maximum-average-subarray-i) |
 | [0746-min-cost-climbing-stairs](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0746-min-cost-climbing-stairs) |
@@ -41,6 +42,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0451-sort-characters-by-frequency) |
 | [0791-custom-sort-string](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0791-custom-sort-string) |
@@ -57,6 +59,7 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0076-minimum-window-substring) |
+| [0217-contains-duplicate](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0438-find-all-anagrams-in-a-string) |
