@@ -16,6 +16,7 @@
 | [1636-sort-array-by-increasing-frequency](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2460-apply-operations-to-an-array](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/2460-apply-operations-to-an-array) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 ## Sliding Window
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 | [0567-permutation-in-string](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0643-maximum-average-subarray-i) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0992-subarrays-with-k-different-integers) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 ## Two Pointers
 |  |
 | ------- |
