@@ -55,6 +55,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0258-add-digits) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2460-apply-operations-to-an-array](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/2460-apply-operations-to-an-array) |
@@ -80,6 +81,7 @@
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0242-valid-anagram) |
@@ -112,9 +114,14 @@
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0258-add-digits) |
 ## Number Theory
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0258-add-digits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
