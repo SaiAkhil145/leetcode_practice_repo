@@ -124,4 +124,9 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0190-reverse-bits) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
