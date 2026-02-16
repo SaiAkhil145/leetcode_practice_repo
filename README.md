@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0283-move-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0643-maximum-average-subarray-i) |
 | [0746-min-cost-climbing-stairs](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0746-min-cost-climbing-stairs) |
 | [0905-sort-array-by-parity](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0905-sort-array-by-parity) |
@@ -68,6 +69,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0567-permutation-in-string) |
 | [0791-custom-sort-string](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0791-custom-sort-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0992-subarrays-with-k-different-integers) |
@@ -131,4 +133,8 @@
 | ------- |
 | [0190-reverse-bits](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0191-number-of-1-bits) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
