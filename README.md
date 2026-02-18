@@ -1,3 +1,135 @@
+# 🚀 LeetCode Solutions — JavaScript
+
+This repository contains my solutions to various **LeetCode problems** implemented in **JavaScript**.
+
+The goal of this repository is to:
+
+* Strengthen Data Structures & Algorithms fundamentals
+* Improve problem-solving skills
+* Prepare for technical interviews
+* Maintain consistency through daily practice
+
+---
+
+## 🧠 Topics Covered
+
+* Arrays & Strings
+* Hashing & Prefix Sum
+* Sliding Window & Two Pointers
+* Stack & Queue
+* Recursion & Backtracking
+* Linked Lists
+* Trees & Binary Search Trees
+* Heap / Priority Queue
+* Graph Algorithms
+* Dynamic Programming
+* Greedy Algorithms
+* Bit Manipulation
+
+---
+
+## 📂 Folder Structure
+
+```
+leetcode/
+│
+├── Arrays/
+├── Strings/
+├── SlidingWindow/
+├── PrefixSum/
+├── Stack/
+├── LinkedList/
+├── Trees/
+├── Graph/
+├── DynamicProgramming/
+└── BitManipulation/
+```
+
+Each solution includes:
+
+* ✅ Problem link
+* ✅ Approach explanation
+* ✅ Time & Space Complexity
+* ✅ Clean, readable code
+
+---
+
+## 🎯 Goals
+
+* Solve 300+ LeetCode problems
+* Master core DSA patterns
+* Build strong interview confidence
+
+---
+
+## 🛠 Tech Stack
+
+* Language: **JavaScript (ES6+)**
+* Platform: **LeetCode**
+* Tools: **VS Code, Git**
+
+---
+
+## 📈 Progress Tracker
+
+| Difficulty | Problems Solved |
+| ---------- | --------------- |
+| Easy       | XX              |
+| Medium     | XX              |
+| Hard       | XX              |
+
+---
+
+## 💡 Example Solution Format
+
+```js
+/**
+ * Problem: Two Sum
+ * Link: https://leetcode.com/problems/two-sum/
+ *
+ * Approach:
+ * Use HashMap to store visited numbers and their indices.
+ *
+ * Time Complexity: O(n)
+ * Space Complexity: O(n)
+ */
+
+var twoSum = function(nums, target) {
+    const map = new Map();
+
+    for (let i = 0; i < nums.length; i++) {
+        const complement = target - nums[i];
+
+        if (map.has(complement)) {
+            return [map.get(complement), i];
+        }
+
+        map.set(nums[i], i);
+    }
+};
+```
+
+---
+
+## 🌟 Why This Repository?
+
+Consistency beats talent.
+This repo reflects my commitment to continuous improvement and problem solving.
+
+---
+
+## 👩‍💻 Author
+
+**Nandhini**
+Full Stack Developer | MERN Stack | DSA Enthusiast
+
+---
+
+⭐ If you find this helpful, feel free to star the repo!
+
+
+
+
 # leetcode_practice_repo
 <!---LeetCode Topics Start-->
 # LeetCode Topics
