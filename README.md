@@ -81,6 +81,7 @@
 | [1224-maximum-equal-frequency](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/1224-maximum-equal-frequency) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3713-longest-balanced-substring-i](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/3719-longest-balanced-subarray-i) |
 ## Greedy
@@ -103,6 +104,7 @@
 | [0680-valid-palindrome-ii](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0680-valid-palindrome-ii) |
 | [0791-custom-sort-string](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0791-custom-sort-string) |
 | [0917-reverse-only-letters](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0917-reverse-only-letters) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2785-sort-vowels-in-a-string](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/2785-sort-vowels-in-a-string) |
 | [3713-longest-balanced-substring-i](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/3713-longest-balanced-substring-i) |
 ## Counting
@@ -110,6 +112,7 @@
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0992-subarrays-with-k-different-integers) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3713-longest-balanced-substring-i](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/3713-longest-balanced-substring-i) |
 ## Heap (Priority Queue)
 |  |
