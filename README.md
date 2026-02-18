@@ -6,7 +6,7 @@
 
 [![Problems Solved](https://img.shields.io/badge/Problems%20Solved-35+-00e5ff?style=for-the-badge&logo=leetcode&logoColor=white)](https://github.com/SaiAkhil145/leetcode_practice_repo)
 [![Topics Covered](https://img.shields.io/badge/Topics%20Covered-19-b06bff?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/SaiAkhil145/leetcode_practice_repo)
-[![Language](https://img.shields.io/badge/Language-Javascript%20%2F%20-ff4db8?style=for-the-badge&logo=python&logoColor=white)](https://github.com/SaiAkhil145/leetcode_practice_repo)
+[![Language](https://img.shields.io/badge/Language-JavaScript-ff4db8?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/SaiAkhil145/leetcode_practice_repo)
 [![Profile](https://img.shields.io/badge/LeetCode-Profile-ffe066?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/SaiAkhil145)
 
 ---
