@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0283-move-zeroes) |
+| [0525-contiguous-array](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0643-maximum-average-subarray-i) |
 | [0746-min-cost-climbing-stairs](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0746-min-cost-climbing-stairs) |
@@ -73,6 +74,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0451-sort-characters-by-frequency) |
+| [0525-contiguous-array](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0567-permutation-in-string) |
 | [0791-custom-sort-string](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0791-custom-sort-string) |
@@ -151,6 +153,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0930-binary-subarrays-with-sum) |
 | [3719-longest-balanced-subarray-i](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/3719-longest-balanced-subarray-i) |
