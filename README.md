@@ -15,6 +15,7 @@
 | [0905-sort-array-by-parity](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0905-sort-array-by-parity) |
 | [0930-binary-subarrays-with-sum](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0992-subarrays-with-k-different-integers) |
+| [1224-maximum-equal-frequency](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/1224-maximum-equal-frequency) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2460-apply-operations-to-an-array](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/2460-apply-operations-to-an-array) |
@@ -77,6 +78,7 @@
 | [0791-custom-sort-string](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0791-custom-sort-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0992-subarrays-with-k-different-integers) |
+| [1224-maximum-equal-frequency](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/1224-maximum-equal-frequency) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3713-longest-balanced-substring-i](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/3713-longest-balanced-substring-i) |
