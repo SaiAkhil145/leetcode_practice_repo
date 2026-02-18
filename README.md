@@ -136,6 +136,7 @@
 | [0067-add-binary](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0191-number-of-1-bits) |
+| [0693-binary-number-with-alternating-bits](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0693-binary-number-with-alternating-bits) |
 ## Divide and Conquer
 |  |
 | ------- |
