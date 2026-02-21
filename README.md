@@ -266,6 +266,7 @@
 ## Array
 |  |
 | ------- |
+| [0274-h-index](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0274-h-index) |
 | [0904-fruit-into-baskets](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0904-fruit-into-baskets) |
 ## Hash Table
 |  |
@@ -275,4 +276,12 @@
 |  |
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0904-fruit-into-baskets) |
+## Sorting
+|  |
+| ------- |
+| [0274-h-index](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0274-h-index) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
