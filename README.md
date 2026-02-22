@@ -266,11 +266,13 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0001-two-sum) |
 | [0274-h-index](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0274-h-index) |
 | [0904-fruit-into-baskets](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0904-fruit-into-baskets) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0001-two-sum) |
 | [0904-fruit-into-baskets](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0904-fruit-into-baskets) |
 ## Sliding Window
 |  |
