@@ -269,17 +269,20 @@
 | [0001-two-sum](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0001-two-sum) |
 | [0274-h-index](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0274-h-index) |
 | [0904-fruit-into-baskets](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0904-fruit-into-baskets) |
+| [2831-find-the-longest-equal-subarray](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/2831-find-the-longest-equal-subarray) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0001-two-sum) |
 | [0904-fruit-into-baskets](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0904-fruit-into-baskets) |
+| [2831-find-the-longest-equal-subarray](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/2831-find-the-longest-equal-subarray) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Sliding Window
 |  |
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0904-fruit-into-baskets) |
+| [2831-find-the-longest-equal-subarray](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/2831-find-the-longest-equal-subarray) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Sorting
 |  |
@@ -289,4 +292,8 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0274-h-index) |
+## Binary Search
+|  |
+| ------- |
+| [2831-find-the-longest-equal-subarray](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/2831-find-the-longest-equal-subarray) |
 <!---LeetCode Topics End-->
