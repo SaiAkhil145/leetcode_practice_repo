@@ -318,4 +318,16 @@
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0412-fizz-buzz) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
