@@ -326,6 +326,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0020-valid-parentheses) |
 | [0412-fizz-buzz](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -339,4 +340,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0005-longest-palindromic-substring) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
