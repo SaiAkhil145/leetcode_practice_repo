@@ -270,6 +270,7 @@
 | [0035-search-insert-position](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0088-merge-sorted-array) |
 | [0274-h-index](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0274-h-index) |
+| [0682-baseball-game](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0904-fruit-into-baskets) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -337,6 +338,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0682-baseball-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -350,5 +352,6 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
