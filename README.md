@@ -268,6 +268,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0035-search-insert-position) |
+| [0088-merge-sorted-array](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0088-merge-sorted-array) |
 | [0274-h-index](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0274-h-index) |
 | [0704-binary-search](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0904-fruit-into-baskets) |
@@ -295,6 +296,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0088-merge-sorted-array) |
 | [0274-h-index](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0274-h-index) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Counting Sort
@@ -338,6 +340,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0005-longest-palindromic-substring) |
+| [0088-merge-sorted-array](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
