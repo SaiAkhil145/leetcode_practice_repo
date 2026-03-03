@@ -316,6 +316,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0402-remove-k-digits) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
@@ -334,6 +335,7 @@
 | [0020-valid-parentheses](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0020-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0412-fizz-buzz) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -357,6 +359,7 @@
 | [0020-valid-parentheses](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0020-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0402-remove-k-digits) |
 | [0682-baseball-game](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Recursion
@@ -364,4 +367,8 @@
 | ------- |
 | [0224-basic-calculator](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0394-decode-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
