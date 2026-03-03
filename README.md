@@ -274,6 +274,7 @@
 | [0704-binary-search](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0904-fruit-into-baskets) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/1512-number-of-good-pairs) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2831-find-the-longest-equal-subarray](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/2831-find-the-longest-equal-subarray) |
@@ -284,6 +285,7 @@
 | [0001-two-sum](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0001-two-sum) |
 | [0904-fruit-into-baskets](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0904-fruit-into-baskets) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/1512-number-of-good-pairs) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2831-find-the-longest-equal-subarray](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/2831-find-the-longest-equal-subarray) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
@@ -305,6 +307,7 @@
 | ------- |
 | [0274-h-index](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0274-h-index) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/1512-number-of-good-pairs) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Binary Search
 |  |
@@ -328,6 +331,7 @@
 | ------- |
 | [0224-basic-calculator](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0224-basic-calculator) |
 | [0412-fizz-buzz](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0412-fizz-buzz) |
+| [1512-number-of-good-pairs](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/1512-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
