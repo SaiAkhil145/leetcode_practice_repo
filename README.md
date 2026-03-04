@@ -274,6 +274,7 @@
 | [0704-binary-search](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0904-fruit-into-baskets) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/1512-number-of-good-pairs) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -301,6 +302,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0088-merge-sorted-array) |
 | [0274-h-index](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0274-h-index) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Counting Sort
 |  |
@@ -375,4 +377,8 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0402-remove-k-digits) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
