@@ -339,6 +339,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0402-remove-k-digits) |
@@ -355,6 +356,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0005-longest-palindromic-substring) |
 | [0088-merge-sorted-array](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
