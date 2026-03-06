@@ -269,6 +269,7 @@
 | [0001-two-sum](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0274-h-index) |
 | [0682-baseball-game](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0704-binary-search) |
@@ -284,6 +285,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0268-missing-number) |
 | [0904-fruit-into-baskets](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0904-fruit-into-baskets) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/1512-number-of-good-pairs) |
@@ -301,6 +303,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0274-h-index) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -315,6 +318,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2831-find-the-longest-equal-subarray](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/2831-find-the-longest-equal-subarray) |
@@ -332,6 +336,7 @@
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0224-basic-calculator) |
+| [0268-missing-number](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0412-fizz-buzz) |
 | [1512-number-of-good-pairs](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/1512-number-of-good-pairs) |
 ## String
@@ -383,4 +388,8 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
