@@ -274,6 +274,7 @@
 | [0274-h-index](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0274-h-index) |
 | [0682-baseball-game](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0704-binary-search) |
+| [0877-stone-game](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0904-fruit-into-baskets) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -340,6 +341,7 @@
 | [0224-basic-calculator](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0412-fizz-buzz) |
+| [0877-stone-game](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0877-stone-game) |
 | [1512-number-of-good-pairs](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/1512-number-of-good-pairs) |
 ## String
 |  |
@@ -368,6 +370,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0005-longest-palindromic-substring) |
+| [0877-stone-game](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0877-stone-game) |
 ## Stack
 |  |
 | ------- |
@@ -424,4 +427,8 @@
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0703-kth-largest-element-in-a-stream) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
