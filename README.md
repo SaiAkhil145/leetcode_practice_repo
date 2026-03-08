@@ -274,6 +274,7 @@
 | [0274-h-index](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0274-h-index) |
 | [0682-baseball-game](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0877-stone-game](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0904-fruit-into-baskets) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -323,6 +324,7 @@
 | [0035-search-insert-position](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2831-find-the-longest-equal-subarray](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/2831-find-the-longest-equal-subarray) |
 ## Greedy
