@@ -272,6 +272,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0347-top-k-frequent-elements) |
 | [0682-baseball-game](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -290,6 +291,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0347-top-k-frequent-elements) |
 | [0904-fruit-into-baskets](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0904-fruit-into-baskets) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/1512-number-of-good-pairs) |
@@ -310,12 +312,14 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Counting Sort
 |  |
 | ------- |
 | [0274-h-index](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0347-top-k-frequent-elements) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/1512-number-of-good-pairs) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -396,6 +400,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -407,10 +412,12 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0347-top-k-frequent-elements) |
 ## Tree
 |  |
 | ------- |
@@ -435,4 +442,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0877-stone-game) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
