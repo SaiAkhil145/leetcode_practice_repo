@@ -284,6 +284,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/1512-number-of-good-pairs) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2831-find-the-longest-equal-subarray](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/2831-find-the-longest-equal-subarray) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
