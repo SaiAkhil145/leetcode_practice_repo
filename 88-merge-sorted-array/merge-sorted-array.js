@@ -14,12 +14,12 @@ var merge = function(nums1, m, nums2, n) {
         }else{
             nums1[last]=nums2[n-1];
             n--;
-        }
+        }   
         last--;
     }
     while(n>0){
         nums1[last]=nums2[n-1];
-        n--;
         last--;
+        n--;
     }
 };
