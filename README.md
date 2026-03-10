@@ -292,6 +292,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0001-two-sum) |
+| [0133-clone-graph](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0133-clone-graph) |
 | [0268-missing-number](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0347-top-k-frequent-elements) |
 | [0904-fruit-into-baskets](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0904-fruit-into-baskets) |
@@ -449,4 +450,16 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0347-top-k-frequent-elements) |
+## Depth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0133-clone-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0133-clone-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
