@@ -292,6 +292,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0133-clone-graph](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0133-clone-graph) |
 | [0268-missing-number](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0347-top-k-frequent-elements) |
@@ -304,6 +305,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0904-fruit-into-baskets) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2831-find-the-longest-equal-subarray](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/2831-find-the-longest-equal-subarray) |
@@ -356,6 +358,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/SaiAkhil145/leetcode_practice_repo/tree/master/0125-valid-palindrome) |
