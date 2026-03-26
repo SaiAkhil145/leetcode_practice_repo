@@ -3,7 +3,7 @@
  * @return {number}
  */
 var equalPairs = function(grid) {
-    const n = grid.length;
+    let n = grid.length;
     let map = new Map();
     for(let row of grid){
         let key = row.join(',');
