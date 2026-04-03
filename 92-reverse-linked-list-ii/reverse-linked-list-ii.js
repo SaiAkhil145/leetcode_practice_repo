@@ -14,8 +14,7 @@
 var reverseBetween = function(head, left, right) {
     let dummy = new ListNode(0);
     dummy.next = head;
-    let prev=dummy;
-
+    let prev = dummy;
     for(let i=1;i<left;i++){
         prev=prev.next;
     }
